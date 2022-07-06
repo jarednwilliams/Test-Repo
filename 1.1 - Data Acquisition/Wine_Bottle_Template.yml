@@ -1,0 +1,32 @@
+Name:
+    css: h1.pipName
+    xpath: null
+    type: Text
+Varietal:
+    css: 'span.prodItemInfo_varietal a.pipOrigin_link'
+    xpath: null
+    type: Text
+Region:
+    css: 'span.prodItemInfo_originText a.pipOrigin_link'
+    xpath: null
+    type: Text
+Price:
+    css: 'div.productPricePricing div.productPrice_price-reg'
+    xpath: null
+    type: Text
+Dosage:
+    css: 'div.prodInfo span.prodAlcoholVolume'
+    xpath: null
+    type: Text
+Online_Rating:
+    css: 'div.pipProdInfo span.averageRating_average'
+    xpath: null
+    type: Text
+Total_Ratings:
+    css: 'div.pipProdInfo span.averageRating_count'
+    xpath: null
+    type: Text
+sommelier_ratings:
+    css: 'div.prodInfo ul.wineRatings_list'
+    xpath: null
+    type: Text
